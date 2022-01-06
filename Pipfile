@@ -7,6 +7,8 @@ name = "pypi"
 selenium = "*"
 pytest = "*"
 appium-python-client = "*"
+atomicwrites = "*"
+requests = "*"
 
 [dev-packages]
 

@@ -1,0 +1,110 @@
+[
+    {
+        "character": "a",
+        "key_code": 29
+    },
+    {
+        "character": "b",
+        "key_code": 30
+    },
+    {
+        "character": "c",
+        "key_code": 31
+    },
+    {
+        "character": "d",
+        "key_code": 32
+    },
+    {
+        "character": "e",
+        "key_code": 33
+    },
+    {
+        "character": "f",
+        "key_code": 34
+    },
+    {
+        "character": "g",
+        "key_code": 35
+    },
+    {
+        "character": "h",
+        "key_code": 36
+    },
+    {
+        "character": "i",
+        "key_code": 37
+    },
+    {
+        "character": "j",
+        "key_code": 38
+    },
+    {
+        "character": "k",
+        "key_code": 39
+    },
+    {
+        "character": "l",
+        "key_code": 40
+    },
+    {
+        "character": "m",
+        "key_code": 41
+    },
+    {
+        "character": "n",
+        "key_code": 42
+    },
+    {
+        "character": "o",
+        "key_code": 43
+    },
+    {
+        "character": "p",
+        "key_code": 44
+    },
+    {
+        "character": "q",
+        "key_code": 45
+    },
+    {
+        "character": "r",
+        "key_code": 46
+    },
+    {
+        "character": "s",
+        "key_code": 47
+    },
+    {
+        "character": "t",
+        "key_code": 48
+    },
+    {
+        "character": "u",
+        "key_code": 49
+    },
+    {
+        "character": "v",
+        "key_code": 50
+    },
+    {
+        "character": "w",
+        "key_code": 51
+    },
+    {
+        "character": "x",
+        "key_code": 52
+    },
+    {
+        "character": "y",
+        "key_code": 53
+    },
+    {
+        "character": "z",
+        "key_code": 54
+    },
+    {
+        "character": " ",
+        "key_code": 62
+    }
+]
